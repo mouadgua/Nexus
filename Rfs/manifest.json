@@ -4,7 +4,7 @@
   "start_url": "https://dev-105.github.io/Dev/Rfs/",
   "display": "standalone",
   "background_color": "#000000",
-  "theme_color": "#007332",
+  "theme_color": "#000000",
   "scope": "https://dev-105.github.io/Dev/Rfs/",
   "icons": [
     {

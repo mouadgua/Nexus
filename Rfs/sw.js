@@ -1,9 +1,13 @@
 // Nexus Workspace — Service Worker
-const CACHE_NAME = 'nexus-v1';
+const CACHE_NAME = 'nexus-v2';
 const ASSETS = [
   './',
   './index.html',
   './manifest.json',
+  './icon-192x192.png',
+  './icon-192x192-maskable.png',
+  './icon-512x512.png',
+  './icon-512x512-maskable.png',
   './icon512_rounded.png',
   './icon512_maskable.png'
 ];
